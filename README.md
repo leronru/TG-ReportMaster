@@ -22,15 +22,19 @@ TG-ReportMaster is a powerful and user-friendly Telegram spam reporting tool. It
 📖 Installation & Usage
 
 # Clone the repository
+```bash
 git clone https://github.com/leronru/TG-ReportMaster
 cd TG-ReportMaster
-
+```
 # Install dependencies
+```bash
 pip install -r requirements.txt
+```
 
 # Run the tool
+```bash
 python tg_reportmaster.py
-
+```
 ⚠️ Legal Disclaimer
 
 TG-ReportMaster is intended for educational and ethical use only. Misuse of this tool for illegal purposes is strictly prohibited. The developers are not responsible for any misuse, illegal activities, or consequences resulting from the use of this tool.
