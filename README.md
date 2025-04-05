@@ -35,6 +35,9 @@ pip install -r requirements.txt
 ```bash
 python tg_reportmaster.py
 ```
+## Additional Screenshot
+![Additional Screenshot](Screenshot_20250405-232932.jpg)
+
 ⚠️ Legal Disclaimer
 
 TG-ReportMaster is intended for educational and ethical use only. Misuse of this tool for illegal purposes is strictly prohibited. The developers are not responsible for any misuse, illegal activities, or consequences resulting from the use of this tool.
